@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav1, .links {
+    /* border: 1px solid red; */
+    background-color: rgba(36, 35, 35, 0.959);
+    display: flex;    
+}
+.links {
+    width: 300px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin-left: 4px;
+    justify-content: space-around;
+    align-items: center;
+}
+.pr:hover {
+    color: gray;
+}
+.iss:hover {
+    color: gray;
+}
+.mkp:hover {
+    color: gray;
+}
+.exp:hover {
+    color: gray;
+}
+.buscar {
+    margin-left: 10px;
+    margin-top: 10px;    
+}
+.buscar2 {
+    height: 30px;
+    border-radius: 4px;
+    background-color: rgb(212, 212, 212);
+    border: none;
+}
+.icono {
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid blue; */
+    border-radius: 50%;
+    margin-left: 10px;    
+}
+.iconos2 {
+    /* border: 1px solid yellow; */
+    position: absolute;  
+    top: 5px;
+    right: 10px;
+}
