@@ -4,7 +4,7 @@
 }
 .nav1, .links {
     /* border: 1px solid red; */
-    background-color: rgba(36, 35, 35, 0.959);
+    background-color: #24292E;
     display: flex;    
 }
 .links {
